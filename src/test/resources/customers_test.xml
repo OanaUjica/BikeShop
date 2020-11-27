@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bikeShop>
+    <customer city="Cluj-Napoca">
+        <id>1</id>
+        <firstName>firstName1</firstName>
+        <lastName>lastName1</lastName>
+        <phone>1789011133</phone>
+        <street>Agriselor</street>
+        <number>13A</number>
+    </customer>
+    <customer city="Sibiu">
+        <id>2</id>
+        <firstName>firstName2</firstName>
+        <lastName>lastName2</lastName>
+        <phone>9911228732</phone>
+        <street>Lalelelor</street>
+        <number>10B</number>
+    </customer>
+</bikeShop>

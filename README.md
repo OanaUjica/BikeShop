@@ -1,3 +1,9 @@
 # Bike_Shop
 
-Project for "IDEs" course
+Project for 'Integrated Development Environments' course
+
+Tools and Technologies used:
+
+Java
+Gradle project
+Junit

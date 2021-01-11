@@ -4,6 +4,6 @@ Project for 'Integrated Development Environments' course
 
 Tools and Technologies used:
 
-Java
-Gradle project
-Junit
+- Java
+- Gradle project
+- Junit

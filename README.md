@@ -1,4 +1,4 @@
-# Bike_Shop
+# Bike_Shop_Project
 
 Project for 'Integrated Development Environments' course
 
